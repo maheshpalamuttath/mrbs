@@ -1,0 +1,25 @@
+footer {
+  position: ;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  font-size: 14px;
+  line-height: 1.5;
+  padding: 10px;
+  background-color: transparent;
+  border-top: 0px solid #ddd;
+}
+
+@media only screen and (max-width: 767px) {
+  footer {
+    font-size: 12px;
+    padding: 5px;
+  }
+}
+
+#a:link {
+    color: #1976D2;
+    text-decoration: none;
+    font-weight: bold;
+}
